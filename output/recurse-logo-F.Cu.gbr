@@ -1,0 +1,83 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.0-rc1-dev-1198-gf6cdcc1db)*
+G04 #@! TF.CreationDate,2018-11-21T14:47:26-05:00*
+G04 #@! TF.ProjectId,recurse-logo,72656375-7273-4652-9d6c-6f676f2e6b69,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Copper,L1,Top*
+G04 #@! TF.FilePolarity,Positive*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.0-rc1-dev-1198-gf6cdcc1db)) date Wednesday, November 21, 2018 at 02:47:26 PM*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD10C,1.800000*%
+G04 #@! TD*
+G04 #@! TA.AperFunction,ComponentPad*
+%ADD11R,1.800000X1.800000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+G04 #@! TO.P,D6,2*
+G04 #@! TO.N,Net-(D5-Pad1)*
+X43460000Y-39500000D03*
+D11*
+G04 #@! TO.P,D6,1*
+G04 #@! TO.N,Net-(D6-Pad1)*
+X46000000Y-39500000D03*
+G04 #@! TD*
+D10*
+G04 #@! TO.P,D1,2*
+G04 #@! TO.N,VCC*
+X23460000Y-29500000D03*
+D11*
+G04 #@! TO.P,D1,1*
+G04 #@! TO.N,Net-(D1-Pad1)*
+X26000000Y-29500000D03*
+G04 #@! TD*
+D10*
+G04 #@! TO.P,D2,2*
+G04 #@! TO.N,Net-(D1-Pad1)*
+X33460000Y-29500000D03*
+D11*
+G04 #@! TO.P,D2,1*
+G04 #@! TO.N,Net-(D2-Pad1)*
+X36000000Y-29500000D03*
+G04 #@! TD*
+G04 #@! TO.P,D3,1*
+G04 #@! TO.N,Net-(D3-Pad1)*
+X46000000Y-29500000D03*
+D10*
+G04 #@! TO.P,D3,2*
+G04 #@! TO.N,Net-(D2-Pad1)*
+X43460000Y-29500000D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.P,D4,1*
+G04 #@! TO.N,Net-(D4-Pad1)*
+X30800000Y-39500000D03*
+D10*
+G04 #@! TO.P,D4,2*
+G04 #@! TO.N,VCC*
+X28260000Y-39500000D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.P,D5,1*
+G04 #@! TO.N,Net-(D5-Pad1)*
+X36000000Y-39500000D03*
+D10*
+G04 #@! TO.P,D5,2*
+G04 #@! TO.N,Net-(D4-Pad1)*
+X33460000Y-39500000D03*
+G04 #@! TD*
+D11*
+G04 #@! TO.P,D7,1*
+G04 #@! TO.N,Net-(D7-Pad1)*
+X51200000Y-39500000D03*
+D10*
+G04 #@! TO.P,D7,2*
+G04 #@! TO.N,Net-(D6-Pad1)*
+X48660000Y-39500000D03*
+G04 #@! TD*
+M02*
