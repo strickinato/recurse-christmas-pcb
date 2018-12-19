@@ -1,5 +1,7 @@
 # RECURSE CHRISTMAS PCB!
 
+![](./recurse-pcb.gif)
+
 ![](./ordered-board.png)
 
 
